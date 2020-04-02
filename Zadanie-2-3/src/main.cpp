@@ -19,6 +19,7 @@ void loop() {
     changeLED();
     changeTime = millis();
   }
+
 }
 
 void changeLED() {
@@ -33,5 +34,6 @@ void changeLED() {
   if (currentLED == 0) {
     direction = 1;
   }
+  //czy comit działa ?
 }
 
