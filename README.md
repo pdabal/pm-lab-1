@@ -17,7 +17,7 @@ Odpowiedź:  Dioda L według programu powinna migać, lecz nie ma ustawionego cz
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Zamiana kolejności podłaczenia rezystora i diody LED nie ma znaczenia, dioda nadal się świeci. Wynika to z tego iż napięcie obwodu elektrycznego który utworzyliśmy pozostaje niezmienne. 
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
