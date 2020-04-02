@@ -21,7 +21,8 @@ Odpowiedź:  Nie ma znaczenia.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  Nie jest wymienny, ponieważ każda pętla ma inną konstrukcje, ale ten sam kod można napisać za pomocą innej pętli, używając odpowiedniej konstrukcji
+Odpowiedź:  Nie jest wymienny, ponieważ każda pętla ma inną konstrukcje, ale ten sam kod można napisać za pomocą innej pętli, używając odpowiedniej konstrukcji.
+W przypadku pętli 'for', ma ona określony zakres oraz krok, w pętli 'while' funkcja wykonuje sie aż do momentu spełnienia określonego warunku, pętla 'do while' działa tak jak pętla 'while', ale zawsze wykona się przynajmniej raz.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
