@@ -17,11 +17,11 @@ Odpowiedź:  dioda nie powinna migać bo nie ma opoźnienia.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  Tak, ponieważ dioda LED może zostać uszkodzona
+Odpowiedź:  Nie.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  nie można, bo pętle różnią sie pod względem konstrukcji.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
