@@ -6,34 +6,35 @@ Wersja: v1.0
 Data:   22.03.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
-Grupa studencka:            WELE18xyS1  
+Imię i nazwisko studenta:   Kordian Kucharek  
+Numer albumu:               69102
+Grupa studencka:            WELE18Q5S1  
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Wbudowana dioda się świeci ciągle.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie ma znaczenia.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie jest wymienny, ponieważ każda pętla ma inną konstrukcje, ale ten sam kod można napisać za pomocą innej pętli, używając odpowiedniej konstrukcji.
+W przypadku pętli 'for', ma ona określony zakres oraz krok, w pętli 'while' funkcja wykonuje sie aż do momentu spełnienia określonego warunku, pętla 'do while' działa tak jak pętla 'while', ale zawsze wykona się przynajmniej raz.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie mieliśmy zadania 2-2-4.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Niedogodności dla kierowcy to : 1. Po zmianie na czerwone dla kierowców od razu zmienia się na zielone dla pieszych; 2. Przycisk dla pieszych od razu włącza dla nich zielone, brak czasu zwłoki dla zmiany po naciśnięciu przycisku.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak jest taka możliwość. Można podłączyć anody diód LED do wyprowadzenia 5V, a wyjścia kolejno do każdej katody diody, jeśli na tym wyjściu pojawi się stan niski(LOW) dioda się zaświeci.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
