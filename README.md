@@ -21,7 +21,7 @@ Odpowiedź:  Zamienienie kolejności podłączenia diody LED i rezystora nic nie
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Pętle się różnią i działają w różny sposób, jednak możliwe jest stworzenie jednego programu na dwóch różnych pętlach np. for i while i te programy nadal mogą działać poprawnie. Zadanie 2.2.3 również można wykonać na pętli do...while, uważam więc, że pętle są wymienne.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
