@@ -25,11 +25,11 @@ Odpowiedź:  Nie możemy zamienić. Pętla for posiada inną konstrukcję niż p
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Jeżeli chodzi o zmienną M_KROPKA_T wtedy pozostałe wartości zmiennych ulegną zmianie i przerwy między stanami będą inne.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Po wciśnięciu przycisku dla pieszych od razu mamy zmianę stanu świateł kierowców bez opóźnień i mamy przejście do stanu YELLOW a nie stanu YELLOW_RED, przez co czas reakcji kierowców jest bardzo mały.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
