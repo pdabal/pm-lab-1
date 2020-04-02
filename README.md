@@ -21,7 +21,7 @@ Odpowiedź:  Nie, nie ma to znaczenia-symulacja będzie działała z każdą mo�
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie, ponieważ w niektórych instrukcjach wymagane jest co najmniej jedno uruchomienie. Pętla "while" wykonywana jest zawsze gdy spełniony jest zadany warunek natomiast pętla "for" uwzględnia zadeklarowanie zmiennej wewnątrz kodu
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
