@@ -33,7 +33,7 @@ Odpowiedź:  Światła zmieniają się równolegle.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak nalezy podłaczyć diody do + a drugą końcówką do pinu (stan niski spowoduje przpływ prądu).
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
