@@ -3,7 +3,7 @@ Nazwa:  pm-lab-1
 Autor:  Paweł Dąbal (pawel.dabal@wat.edu.pl)  
 Opis:   Projekt bazowy repozytorium na pierwsze spotkanie laboratoryjne z przedmiotu *Programowanie mikrokontrolerów*.  
 Wersja: v1.0  
-Data:   22.03.2020 r.  
+Data:   02.04.2020 r.  
 
 # Informacje o studencie
 Imię i nazwisko studenta:   Szymon Witkowski  
@@ -13,7 +13,7 @@ Grupa studencka:            WEL18EQ5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  dioda nie powinna migać bo nie ma opoźnienia. 
+Odpowiedź:  Dioda miga tak szybko, że ludzkie oko nie może tego zarejestrować. Widzimy stałe źródło światła.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
