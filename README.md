@@ -17,7 +17,7 @@ Odpowiedź:  Program początkowo ustawia wbudowaną diodę w stan niski, czyli d
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Zamienienie kolejności podłączenia diody LED i rezystora nic nie zmieni, czyli kolejność podłączenia nie ma znaczenia.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
