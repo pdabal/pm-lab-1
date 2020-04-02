@@ -38,14 +38,14 @@ Odpowiedź:  Tak, jest możliwe takie sterowanie.
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
-Odpowiedź:  ...
+Odpowiedź:  Bez zadania
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
-Odpowiedź:  ...
+Odpowiedź:  Bez zadania
 
 ## Zadanie 3-3:
 Pytanie:    *Kiedy programowe generowanie sygnału PWM ma zastosowanie i jakie pociąga to za sobą konsekwencje.*  
-Odpowiedź:  ...
+Odpowiedź:  Bez zadania
 
 
