@@ -21,7 +21,7 @@ Odpowiedź:  Tak, wówczas dioda LED nie świeci.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak, gdyż funkcje for, while i do while działają identycznie, różnie natomiast następuje ich inicjacja.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
