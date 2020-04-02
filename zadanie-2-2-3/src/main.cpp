@@ -17,19 +17,24 @@ void loop() {
    digitalWrite(led, LOW);
    delay(M_Pauza_t);
  }
-for(int i=0; i<3; i++)
+ int i=0;
+while(i<3)
  {
    digitalWrite(led, HIGH);
    delay(M_kreska_t);
    digitalWrite(led, LOW);
    delay(M_Pauza_t);
+   i++;
  }
- for(int i=0; i<3; i++)
+ int j=0;
+ do
  {
    digitalWrite(led, HIGH);
    delay(M_kropka_t);
    digitalWrite(led, LOW);
    delay(M_Pauza_t);
- }
+   j++;
+ }while(j<3);
+
   delay(M_spacja_t);
 }

@@ -21,7 +21,7 @@ Odpowiedź:  Nie nie ma. mamy w tym wypadku pełną dowolność podłączeniu ko
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  W badanym przypadku pętę są wymiene, istnieją natomiast przypadki w których wskazane jest użycie konkretnego typu pętli np. while==digitalRead(8, LOW)(użycie for było możliwe ale problematyczne, wymagało by użycia dodatkowych intrukcji warunkowych). 
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
