@@ -29,7 +29,7 @@ Odpowiedź:  Nastąpi zmiana czasu świecenia się diody LED, w podanym przykła
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Kierowcy mogą być uzależnieni od pieszego, ponieważ ten może od razu włączyć zielone światło za pomocą przycisku. Warto też zauważyć, iż nie ma pewnej "blokady" tego przycisku, która uniemożliwiłaby zmianę sygnalizacji przez pieszego po zbyt krótkim czasie (a więc osoba piesza mogłaby niemal cały czas mieć zapalone zielone światło a u kierowców powstawałby korek)
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
