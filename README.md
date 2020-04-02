@@ -13,7 +13,7 @@ Grupa studencka:            WELE18Q5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  Wbudowana dioda się świeci ciągle
+Odpowiedź:  Wbudowana dioda się świeci ciągle.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
@@ -26,11 +26,11 @@ W przypadku pętli 'for', ma ona określony zakres oraz krok, w pętli 'while' f
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie mieliśmy takiego zadania jak 2-2-4.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Niedogodności dla kierowcy to : 1. Po zmianie na czerwone dla kierowców od razu zmienia się na zielone dla pieszych; 2. Przycisk dla pieszych od razu włącza dla nich zielone, brak czasu zwłoki dla zmiany po naciśnięciu przycisku.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
