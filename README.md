@@ -25,7 +25,7 @@ Odpowiedź:  Pętle się różnią i działają w różny sposób, jednak możli
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  W instrukcji nie ma tekiego zadania i nie wiem do czego odnosi się zmienne LED_T, jeśli jednak chodziło o zmienną M_KROPKA_T wtedy zmieniają się też inne zmienne M_KRESKA_T, M_PAUZA_T i M_SPACJA_T i będą inne przerwy między zmiannami stanów.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
@@ -33,7 +33,7 @@ Odpowiedź:  Jeżeli światło dla aut zmieni się na czerwone to w tym samym cz
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak. Jeżeli podepniemy anodę do zasilania 5V a katodę do wyjścia I/O, umożliwimy przepływ ładunków dzięki podaniu na wyjściu I/O stanu niskiego.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
