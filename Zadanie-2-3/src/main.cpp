@@ -1,37 +1,41 @@
 #include <Arduino.h>
 
-uint8_t ledPin[] = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
-uint8_t ledDelay = 65;
-uint8_t direction = 1;
-uint8_t currentLED = 0;
-unsigned long changeTime;
-
-void changeLED();
+#define LED_RED 10
+#define M_KROPKA_T 200
+#define M_KRESKA_T 3*M_KROPKA_T
+#define M_PAUZA_T 3*M_KROPKA_T
+#define M_SPACJA_T 7*M_KROPKA_T
 
 void setup() {
-  for (int i = 0; i < 10; i++)  {
-    pinMode(ledPin[i], OUTPUT);
+  
+    pinMode(LED_RED,OUTPUT);
+    
   }
-}
+
 
 void loop() {
-  if ((millis() - changeTime) > ledDelay) {
-    changeLED();
-    changeTime = millis();
-  }
+  for(int i=0;i<3;i++)
+  {
+  digitalWrite(LED_RED, HIGH);
+  delay(M_KROPKA_T);
+  digitalWrite(LED_RED,LOW);
+  delay(M_PAUZA_T);
 }
-
-void changeLED() {
-  for (int x = 0; x < 10; x++) {          // Wyłączenie wszystkich diod
-    digitalWrite(ledPin[x], LOW);
-  }  
-  digitalWrite(ledPin[currentLED], HIGH); // Włączenie kolejnej diody LED
-  currentLED += direction;                // Wskazanie na kolejną diode LED
-  if (currentLED == 9) {                  // Zmiana kierunku
-    direction = -1;
-  }
-  if (currentLED == 0) {
-    direction = 1;
-  }
+for(int i=0;i<3;i++)
+{
+  digitalWrite(LED_RED,HIGH);
+  delay(M_KRESKA_T);
+  digitalWrite(LED_RED,LOW);
+  delay(M_PAUZA_T);
 }
+for(int i=0;i<3;i++)
+{
+  digitalWrite(LED_RED,HIGH);
+  delay(M_KROPKA_T);
+  digitalWrite(LED_RED,LOW);
+  delay(M_PAUZA_T);
+}
+delay(M_SPACJA_T);
+ //
+  }
 
