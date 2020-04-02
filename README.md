@@ -38,7 +38,7 @@ Odpowiedź:  Tak nalezy podłaczyć diody do + a drugą końcówką do pinu (sta
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
-Odpowiedź:  ...
+Odpowiedź:  PRzechowywanie  stanu pinu w zmiennej niesie ze sobą ryzeyko wystąpienia błędu.
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
