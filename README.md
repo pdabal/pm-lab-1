@@ -29,7 +29,7 @@ Odpowiedź:  Jeżeli chodzi o zmienną M_KROPKA_T wtedy pozostałe wartości zmi
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Po wciśnięciu przyciku światło u kierowcy z zielonego zmienia sie natychmiast na zółte, a następnie na czerwone.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
