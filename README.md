@@ -33,7 +33,7 @@ Odpowiedź:  Po wciśnięciu przycisku dla pieszych od razu mamy zmianę stanu �
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Jest możliwe, róznica będzie polegała na tym że w układzie diody będą się świecić i po kolei jedna po drugiej będą się gasić.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
