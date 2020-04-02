@@ -25,11 +25,11 @@ Odpowiedź:  Tak, gdyż funkcje for, while i do while działają identycznie, r�
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Brak polecenia w sprawozdaniu
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Przycisk dla pieszych zamiast pozostawić czas na bezpieczną zmianę świateł dla kierowców natychmiast zmienia światła powodując zagrożenie w ruchu drogowym.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
