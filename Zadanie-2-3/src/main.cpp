@@ -5,18 +5,17 @@ uint8_t ledDelay = 65;
 uint8_t direction = 1;
 uint8_t currentLED = 0;
 unsigned long changeTime;
-
 void changeLED();
 
 void setup() {
-  pinMode(LED_BUILTIN, OUTPUT);
-  digitalWrite(LED_BUILTIN, LOW);
+  pinMode(10,OUTPUT);
+  
 }
 
 void loop() {
-  digitalWrite(LED_BUILTIN,HIGH);
+  digitalWrite(10,HIGH);
   delay(500);
-  digitalWrite(LED_BUILTIN, LOW);
+  digitalWrite(10, LOW);
   delay(500);
 
 }
