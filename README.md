@@ -33,7 +33,7 @@ Odpowiedź:  Po wciśnięciu przyciku światło u kierowcy z zielonego zmienia s
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ..
+Odpowiedź:  Tak jest to możliwe. Jeżeli podepniemy anode diody do stałego zasilania , a katode do wyjścia IO. Dzięki ustawieniu niskiego stanu na wyjściu zachodzi przepływ ładunku z zasilania do masy przez IO.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
