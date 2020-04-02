@@ -22,16 +22,15 @@ void loop() {
 }
 
 void changeLED() {
-  for (int x = 0; x < 10; x++) {          // Wyłączenie wszystkich diod
+  for (int x = 0; x < 10; x++) {          
     digitalWrite(ledPin[x], LOW);
   }  
-  digitalWrite(ledPin[currentLED], HIGH); // Włączenie kolejnej diody LED
-  currentLED += direction;                // Wskazanie na kolejną diode LED
-  if (currentLED == 9) {                  // Zmiana kierunku
+  digitalWrite(ledPin[currentLED], HIGH); 
+  currentLED += direction;                
+  if (currentLED == 9) {                  
     direction = -1;
   }
   if (currentLED == 0) {
     direction = 1;
   }
 }
-
