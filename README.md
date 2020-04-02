@@ -25,11 +25,11 @@ Odpowiedź:  W badanym przypadku pętę są wymiene, istnieją natomiast przypad
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  nie ma takiego zadania w instukcji 
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Po wciśnięciu przysciku konfiguracja światweł zmienia sie natychmiatowo co wymusza na kierowcach szybką reakcje. Poza tym światło zielone dla pieszych i czerwone dla kierowców zmienia sie w tym samym momencie co może doprowdzić do niebezpieczeństwa.(w prawdziwej sygnalizacji jest pewien odstęp czasu między tymi światłami)
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
