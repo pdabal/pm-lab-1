@@ -13,7 +13,7 @@ Grupa studencka:            WEL18EQ5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Program początkowo ustawia wbudowaną diodę w stan niski, czyli dioda się nie zapali, następnie w funkcji loop stan podawany na diodę jest zmieniany, czego wynikiem jest miganie diody, jednak zmiana jest tak szybka, że nia zauważamy miagania a widzimy jednynie świecącą diodę.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
