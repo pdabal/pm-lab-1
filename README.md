@@ -13,7 +13,7 @@ Grupa studencka:            WELE18EQ5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Dioda L według programu powinna migać, lecz nie ma ustawionego czasu opóźnienia w kodzie programu przez co dioda L świeci się małym światłem, co możemy interpretować jako ciągłe włączanie się i wyłączanie diody. Czas zmiany stanu diody jest tak iski że nie jest zauważalny przez ludzkie oko.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
