@@ -7,13 +7,13 @@ Data:   22.03.2020 r.
 
 # Informacje o studencie
 Imię i nazwisko studenta:   Damian Duchnowski 
-Numer albumu:              69072
+Numer albumu:               69072
 Grupa studencka:            WEL18EQ5S1 
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź: Uruchomienie symulacji poskutkowało zaświeceniem żółtej diody (oznaczona na płytce symbolem L)
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
