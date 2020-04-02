@@ -13,7 +13,7 @@ Grupa studencka:            WELE18EQS1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Symulacja zapala diodę na płytce. Wciśnięcie przycisku wyłącza diodę natomiast jego puszczenie ponownie ją zapala.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
