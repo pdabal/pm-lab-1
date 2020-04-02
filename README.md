@@ -38,7 +38,7 @@ Odpowiedź:  Jest to możliwe poprzez podpięcia anody diody do stałego zasilan
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
-Odpowiedź:  ...
+Odpowiedź:  Zadane polecenie wykoanłem uzależniając stan na wyjciu danego pinu od zmiennej globalnej "stan". Po podaniu numeru pinu funkja zmienia watośc zmiennej "stan" na przeciwną a następnie ustala stan na wyjściu pinu według nowej watości; 
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
