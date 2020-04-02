@@ -13,7 +13,7 @@ Grupa studencka:            WEL18EQ5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  Dioda LED o oznaczeniu L co pół sekundy zmienia stan włączenia i wyłączenia.
+Odpowiedź:  Dioda LED o oznaczeniu L stale świeci.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
