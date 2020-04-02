@@ -33,7 +33,7 @@ Odpowiedź:  Kierowcy mogą być uzależnieni od pieszego, ponieważ ten może o
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Owszem, jest to możliwe
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
