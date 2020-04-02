@@ -13,7 +13,7 @@ Grupa studencka:            WEL18EQ5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  dioda świeci ciągłym światłem, lecz nie z jej maksymalnym natężeniem. Spowodowane jest to tym, iż odstępy między zapalaniem i gaśnięciem są niedostrzegalne dla ludzkiego oka. 
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
