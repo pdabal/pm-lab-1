@@ -21,7 +21,7 @@ Odpowiedź:  Zamiana kolejności podłaczenia rezystora i diody LED nie ma znacz
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie możemy zamienić. Pętla for posiada inną konstrukcję niż pętla while i sposób działania obu pętli jest inny. Pętla for zawiera inicjalizacje i iteracje zmiennych w deklaracji funkcji, pętla while tego nie posiada. Pętla for jest wykorzystywana gdy znamy konkretnie ile powtórzeń chcemy uzyskać, natomiast pętlę while stosujemy w przypadkach gdy nie znamy do końca liczby powtórzeń. Stosując natomiast pętlę do while nawet przy niespełnionych warunkach pętla zostanie wykonana przynajmniej raz.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
