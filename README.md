@@ -33,7 +33,7 @@ Odpowiedź:  Po wciśnięciu przysciku konfiguracja światweł zmienia sie natyc
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Jest to możliwe poprzez podpięcia anody diody do stałego zasilania 5v a katody (przez rezystor) do wyjścia IO. Poprzez ustawienie stanu niskiego na na wyjściu umożliwimy przepływ ładunku z zasilania do masy przez pin IO.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
