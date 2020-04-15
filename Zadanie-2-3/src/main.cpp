@@ -11,7 +11,7 @@ void changeLED();
 void setup() {
   for (int i = 0; i < 10; i++)  {
     pinMode(ledPin[i], OUTPUT);
-  }
+  } 
 }
 
 void loop() {
