@@ -17,7 +17,7 @@ Odpowiedź:  Dioda LED o nazwie "L" zapala się i ciągle śweci.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Zmiana kolejności podłączenia nie ma znaczenia.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
