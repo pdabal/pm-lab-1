@@ -8,7 +8,7 @@ Data:   22.03.2020 r.
 # Informacje o studencie
 Imię i nazwisko studenta:   Rafał Bieliński  
 Numer albumu:               69049  
-Grupa studencka:            WELE18EQ2S1  
+Grupa studencka:            WELE18EQ2S1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
