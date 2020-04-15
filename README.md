@@ -22,7 +22,7 @@ Odpowiedź: Dioda nie świeci na płytce, a w symulatorze jest włączona.
 ## Zadanie 2-2-2:
 
 Pytanie: _Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?_  
-Odpowiedź: ...
+Odpowiedź: Nie wiem.
 
 ## Zadanie 2-2-3:
 
