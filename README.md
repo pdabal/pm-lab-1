@@ -17,7 +17,7 @@ Grupa studencka: WEL18EQ2S1
 ## Zadanie 2-2-1a:
 
 Pytanie: _Jaki jest efekt działania programu?_  
-Odpowiedź: ...
+Odpowiedź: Dioda nie świeci na płytce, a w symulatorze jest włączona.
 
 ## Zadanie 2-2-2:
 
