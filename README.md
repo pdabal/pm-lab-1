@@ -17,11 +17,12 @@ Odpowiedź:  Dioda po uruchomieniu świeci.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie ma znaczenia
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Pętlę for można zastąpić pętlą while jednak w przypadku używania do_while należy przemyśleć, czy nasza pętla musi wykonać się conajmniej raz.
+Z zasady dzialania do_while wykonuje się on zawsze conajmniej raz a dopiero potem sprawdza warunek. 
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
