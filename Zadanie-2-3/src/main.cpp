@@ -9,19 +9,13 @@ unsigned long changeTime;
 void changeLED();
 
 void setup() {
-  for (int i = 0; i < 10; i++)  {
-    pinMode(ledPin[i], OUTPUT);
-  }
-
+  
   pinMode(LED_BUILTIN, OUTPUT);
   digitalWrite(LED_BUILTIN, LOW);
 }
 
 void loop() {
-  if ((millis() - changeTime) > ledDelay) {
-    changeLED();
-    changeTime = millis();
-  }
+ 
 
   digitalWrite(LED_BUILTIN, HIGH);
   digitalWrite(LED_BUILTIN, LOW);
