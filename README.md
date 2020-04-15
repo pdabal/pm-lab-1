@@ -33,7 +33,7 @@ Odpowiedź:  Krótki czas działania zielonej diody.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Sterowanie stanem niski jest możliwe. Wszystkie diody są zapalone i po kolei gasną. 
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
