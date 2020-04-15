@@ -33,7 +33,7 @@ Odpowiedź:  Krótki czasa trwania zielonego sygnału
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak, wszystkie diody są zapalone i po kolei gasną i się zapalają (na odwrót jak w sterowaniu HIGH)
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
