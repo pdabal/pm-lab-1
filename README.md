@@ -25,11 +25,11 @@ Odpowiedź:  Nie każdy rodzaj pętli jest wymienny.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Zmiana kolorów 
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
