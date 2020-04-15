@@ -71,6 +71,7 @@ if ((millis() - changeTime) > (STATE_3_TIME)){
   lightState = YELLOW_RED;
   changeTime = millis();
 }
+
 break;
   case YELLOW_RED:
 digitalWrite(CAR_GREEN,LOW);
