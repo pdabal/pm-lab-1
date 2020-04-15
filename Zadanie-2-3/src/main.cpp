@@ -34,4 +34,3 @@ void changeLED() {
     direction = 1;
   }
 }
-
