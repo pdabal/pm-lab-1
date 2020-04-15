@@ -1,13 +1,14 @@
 #include <Arduino.h>
 
-void setup() {
+#define LED_RED 10
 
-pinMode(LED_BUILTIN, OUTPUT);
-digitalWrite(LED_BUILTIN,LOW);
+void setup() {
+pinMode(LED_RED, OUTPUT);
 }
 
 void loop() {
- 
- digitalWrite(LED_BUILTIN,HIGH);
- digitalWrite(LED_BUILTIN,LOW);
+ digitalWrite(LED_RED,HIGH);
+ delay(500);
+ digitalWrite(LED_RED,LOW);
+ delay(500);
 }
