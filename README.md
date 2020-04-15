@@ -21,7 +21,7 @@ Odpowiedź:  Nie, dioda dalej miga
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie każdy rodzaj pętli jest wymienny, pętle FOR można zawsze zastąpić pętlą WHILE
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
