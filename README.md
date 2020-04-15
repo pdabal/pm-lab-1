@@ -13,7 +13,7 @@ Grupa studencka:            WELE18EQ2S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Zapalają się dioda L. Po dodaniu funkcji delay() miga,zapala się na 0,5 sekundu i gaśnie na 0,5 sekundy.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
