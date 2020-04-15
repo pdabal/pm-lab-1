@@ -17,7 +17,7 @@ Odpowiedź:  Zapalają się dioda L. Po dodaniu funkcji delay() miga,zapala się
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Zamiana na miejscami rezystora i diody LED nie ma znaczenia, w obu przypadkch układ działa tak samo.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
