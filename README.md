@@ -6,22 +6,22 @@ Wersja: v1.0
 Data:   22.03.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
-Grupa studencka:            WELE18xyS1  
+Imię i nazwisko studenta:  Korneliusz Duduś 
+Numer albumu:               71972  
+Grupa studencka:            WEL18EQ5S1  
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Dioda L świeci się na żółto.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie. Dioda LED zachowuje się tak samo.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak. Różnica polega na wygodzie użycia.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
@@ -29,16 +29,16 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Światła zmieniają się równolegle.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak nalezy podłaczyć diody do + a drugą końcówką do pinu (stan niski spowoduje przpływ prądu).
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
-Odpowiedź:  ...
+Odpowiedź:  PRzechowywanie  stanu pinu w zmiennej niesie ze sobą ryzeyko wystąpienia błędu.
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
